@@ -15,7 +15,7 @@
         you're always connected, secure, and efficient.
       </p>
       <p class="text-lg mb-6">
-        >Contact us today to explore how Kialla Computers can empower your digital world..
+        >Contact us today to explore how Kialla Computers can empower your digital world.
       </p>
     </div>
   </div>
